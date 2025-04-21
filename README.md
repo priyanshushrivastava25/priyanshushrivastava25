@@ -1,4 +1,5 @@
-<h4 align="left">✦ Priyanshu Shrivastava ✦<br>"I don’t just analyze data—I rewrite the narrative."<br><br>📊 Data Alchemist | Chaos in Code | Balancebreaker<br>🔍 Turning noise into insight. Finding meaning where others see randomness.<br>📈 Predicting trends like prophecies, visualizing them like art.<br>🧠 One part analyst, one part architect of understanding.</h4>
+<h1>✦ Priyanshu Shrivastava ✦</h1>
+<h4 align="left"><br>"I don’t just analyze data—I rewrite the narrative."<br><br>📊 Data Alchemist | Chaos in Code | Balancebreaker<br>🔍 Turning noise into insight. Finding meaning where others see randomness.<br>📈 Predicting trends like prophecies, visualizing them like art.<br>🧠 One part analyst, one part architect of understanding.</h4>
 
 ###
 
