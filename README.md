@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/priyanshushrivastava25/priyanshushrivastava25/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/priyanshushrivastava25/priyanshushrivastava25/blob/main/worklow/snake.yml" alt="Snake animation" />
 
 ###
 
