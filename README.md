@@ -66,4 +66,8 @@
 
 <img src="https://raw.githubusercontent.com/priyanshushrivastava25/priyanshushrivastava25/output/snake.svg" alt="Snake animation" />
 </div>
+<div align="center">
+<br>
+<img align="center" height="150" src="https://private-user-images.githubusercontent.com/141414310/435788867-303b7cfe-62a2-4b68-a529-2bf9d7699caa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyNjU4NzgsIm5iZiI6MTc0NTI2NTU3OCwicGF0aCI6Ii8xNDE0MTQzMTAvNDM1Nzg4ODY3LTMwM2I3Y2ZlLTYyYTItNGI2OC1hNTI5LTJiZjlkNzY5OWNhYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyMVQxOTU5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZWI2NDgyOTZkNTdhODUwMDg0YTdkZDIxMGNlZDFhZTc1Y2U5NWY5YzFhZjA3ZjIzYzI3ODA3MzZiMjMyYjM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.o0rqg_RzPU0-BBZ1XM9QO4OE2w8y92YRkT-mtUp2EGY"  />
 
+  </div>
