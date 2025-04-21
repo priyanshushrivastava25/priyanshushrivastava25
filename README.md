@@ -1,5 +1,5 @@
-<h1>✦ Priyanshu Shrivastava ✦</h1>
-<h4 align="left"><br>"I don’t just analyze data—I rewrite the narrative."<br><br>📊 Data Alchemist | Chaos in Code | Balancebreaker<br>🔍 Turning noise into insight. Finding meaning where others see randomness.<br>📈 Predicting trends like prophecies, visualizing them like art.<br>🧠 One part analyst, one part architect of understanding.</h4>
+<h1 align="center">✦ Priyanshu Shrivastava ✦</h1>
+<h4 align="center"><br>"I don’t just analyze data—I rewrite the narrative."<br><br>📊 Data Alchemist | Chaos in Code | Balancebreaker<br>🔍 Turning noise into insight. Finding meaning where others see randomness.<br>📈 Predicting trends like prophecies, visualizing them like art.<br>🧠 One part analyst, one part architect of understanding.</h4>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl3OGkwa2o3N3RjNDExOGR3b2o5ZHlqZDVpc2VucXRjdXZob3l4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBsJwo17cbYvs8vqfx/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJ5a2VsanhidGgyMGtheWZhZHhiMmVrMzgzejlxMW1oNW9taTRkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Bl38gdtUK7WDdi59y/giphy.gif"  />
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/priyanshu.shrivastava.25?igsh=MXhpNGJrOHlrcGUyYQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -61,9 +61,9 @@
 </div>
 
 ###
-
+<div align="center">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/priyanshushrivastava25/priyanshushrivastava25/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
